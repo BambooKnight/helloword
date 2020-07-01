@@ -1,7 +1,12 @@
-#user -utf-8
+#user utf-8
 
-import os
+import nmpy
 
 def show():
   print("I'm Bambooknight")
   
+
+def show_time():
+  print("new time")
+
+
