@@ -1,0 +1,7 @@
+#user -utf-8
+
+import os
+
+def show():
+  print("I'm Bambooknight")
+  
